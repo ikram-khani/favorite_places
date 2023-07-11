@@ -8,6 +8,8 @@
 	<string>Take your favorite place image.</string>
     <key>NSMicrophoneUsageDescription</key>
 	<string>Take your favorite place image.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>The location for you favorite place </string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
