@@ -40,6 +40,9 @@ app.*.map.json
 
 # api keys
 api_key.dart
+AndroidManifest.xml
+AppDelegate.swift
+
 
 # Android Studio will place build artifacts here
 /android/app/debug
